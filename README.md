@@ -2,7 +2,7 @@
 一批比较安全的妹子图，目前约13000张。
 
 ## 注意事项
-* 国内请使用jsdelivr.net加速，否则速度很慢。只要在文件的仓库路径前添加`https://cdn.jsdelivr.net/gh/ipchi9012/cos_pics@v1/`即可，比如：
+* 国内请使用jsdelivr.net加速，否则速度很慢。只要在文件的仓库路径前添加`https://cdn.jsdelivr.net/gh/ipchi9012/cos_pics@vlatest/`即可，比如：
   * `cos_index.js` -> `https://cdn.jsdelivr.net/gh/ipchi9012/cos_pics@vlatest/cos_index.js`
   * `cos_0011.js` -> `https://cdn.jsdelivr.net/gh/ipchi9012/cos_pics@latest/cos_0011.js`
   * `0a16f8a52af7/20140122095237390.jpg` -> `https://cdn.jsdelivr.net/gh/ipchi9012/cos_pics@latest/46ec99606114/1496026269124938.jpg`
