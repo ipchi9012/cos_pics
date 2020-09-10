@@ -4,7 +4,7 @@
 
 ## 注意事项
 * 国内请使用jsdelivr.net加速，否则速度很慢。只要在文件的仓库路径前添加`https://cdn.jsdelivr.net/gh/ipchi9012/cos_pics@latest/`即可，比如：
-  * `cos_index.js` -> `https://cdn.jsdelivr.net/gh/ipchi9012/cos_pics@vlatest/cos_index.js`
+  * `cos_index.js` -> `https://cdn.jsdelivr.net/gh/ipchi9012/cos_pics@latest/cos_index.js`
   * `cos_0011.js` -> `https://cdn.jsdelivr.net/gh/ipchi9012/cos_pics@latest/cos_0011.js`
   * `0a16f8a52af7/20140122095237390.jpg` -> `https://cdn.jsdelivr.net/gh/ipchi9012/cos_pics@latest/46ec99606114/1496026269124938.jpg`
 * 每100张图片有一个索引文件，名为cos_xxxx.js，前端可以用jsonp方式跨域引用，文件名和jsonp中的函数名相同。见如下例程：
