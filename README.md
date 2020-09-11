@@ -21,6 +21,6 @@
   sc.src = 'https://cdn.jsdelivr.net/gh/ipchi9012/cos_pics@latest/cos_0011.js' // 注意此处脚本名与前面函数名必须一致
   document.getElementsByTagName('head')[0].appendChild(sc) // 动态添加到文档头部
   ```
-* 后端使用则可以删除js源文件前面的`"cos_xxxx("`和最后的`")"`后作为普通json解析。
+* 后端使用则可以删除js源文件前面的`"cos_xxxx("`和最后的`")"`后作为普通json解析。具体可参考[此仓库](https://github.com/rockswang/meizi.opq)。
 * cos_index.js是总目录，包含所有索引文件的名字列表，jsonp用法参考索引文件
 * 为减小空间和带宽占用，所有图片均为30万像素（约640x480），JPEG压缩质量为75，色度抽样值为4:2:0
